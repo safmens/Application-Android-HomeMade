@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/TxtForgotPswd"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D19D6F"
+    tools:context=".Activities.ForgotPswdActivity">
+
+
+    <EditText
+        android:id="@+id/username"
+
+
+        android:layout_width="327dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="248dp"
+        android:layout_marginEnd="38dp"
+        android:background="@drawable/bg_edtext"
+        android:drawableLeft="@drawable/ic_user"
+        android:drawablePadding="10dp"
+        android:elevation="5dp"
+
+        android:hint="entrer votre nom complet"
+        android:paddingLeft="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/valide"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/username"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="49dp"
+        android:layout_marginEnd="100dp"
+        android:background="@drawable/bg_btn"
+        android:text="Valider"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HomeMade</string>
+    <string name="phone">0655248316</string>
+    <string name="description">La pâte de base est composée exclusivement d’un mélange de variété des céréales panifiables, d’eau potable et de sel. Un travail qui dépend de la quantité à préparer au préalable.</string>
+    <string name="adress">lotissement abdelaouia n°33 Marrakech</string>
+    <string name="nom">Fadila Mamassi</string>
+    <string name="numPage">1</string>
+    <string name="desc_imgrow">TODO</string>
+    <string name="texte_sucres">Sucrés</string>
+    <string name="desc_img3">TODO</string>
+    <string name="descpageacceuil">TODO</string>
+    <string name="femme">Femme</string>
+    <string name="question">Vous êtes ?</string>
+    <string name="choixclient">Client</string>
+    <string name="homemadechoix">HomeMade</string>
+    <string name="imagechoix">TODO</string>
+    <string name="add_profile_picture">Add Profile Picture</string>
+    <string name="service">Service</string>
+    <string name="nom_complet">Nom complet</string>
+    <string name="t_l_phone">Téléphone</string>
+    <string name="decrivez_votre_service">Decrivez votre service</string>
+    <string name="modifier">Modifier</string>
+    <string name="annuler">Annuler</string>
+    <string name="adresse">Adresse</string>
+    <string name="todo">TODO</string>
+    <string name="p_tes">Pâtes</string>
+    <string name="choisir_une_cat_gorie">Choisir une catégorie</string>
+    <string name="sal_s">Salés</string>
+    <string name="sucr_s">Sucrés</string>
+    <string name="param_tres">Paramètres du compte</string>
+    <string name="se_d_connecter">Se déconnecter</string>
+</resources>
